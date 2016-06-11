@@ -1,6 +1,6 @@
 name: Mayos
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.26176
 typography_spectrum: 0.30811
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.4582490543834865
-  lightness: 0.1666269290726632
-  saturation: 0.3924285725224763
-  rhythmicContrast: 0.4782750739250332
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
