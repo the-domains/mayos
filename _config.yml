@@ -1,0 +1,28 @@
+name: Mayos
+favicon: null
+layout_spectrum: 0.8726271400228143
+typography_spectrum: 0.578052343800664
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4582490543834865
+  lightness: 0.1666269290726632
+  saturation: 0.3924285725224763
+  rhythmicContrast: 0.4782750739250332
+purpose: []
